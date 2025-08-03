@@ -16,7 +16,7 @@ This is the personal portfolio website of **Dev Dubey**, a frontend developer pa
 
 ## 🔍 Demo
 
-> View the live demo: [https://your-github-pages-or-hosted-url](https://your-deployed-url)
+> View the live demo: (https://flourishing-parfait-7b6bfc.netlify.app/)
 
 
 ## 📦 Installation / Setup (Local)
